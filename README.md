@@ -149,7 +149,7 @@ git_clone/
 
 - Files are stored as **Blob objects** with compressed content
 - Directories are represented as **Tree objects** with file references
-- Each object gets a unique SHA-256 hash
+- Each object gets a unique SHA-1 hash
 
 ### 2. **Staging Process**
 
